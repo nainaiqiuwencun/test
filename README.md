@@ -1,2 +1,2 @@
-# test
-this is a test repository
+# JavaMail
+Send Email by JavaMail API
